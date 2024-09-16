@@ -10,3 +10,4 @@ OS build	22631.4037
 Serial number	MP2GJYAC
 Experience	Windows Feature Experience Pack 1000.22700.1027.0
 
+Brukernavn: PerRai
